@@ -1,10 +1,12 @@
-Coeur/objective-zip is a fork from AgileBits/objective-zip
+Coeur/objective-zip is a fork from [AgileBits/objective-zip](https://github.com/AgileBits/objective-zip)
 
 The following changes were made:
 
 * Compiler warnings reported by Xcode 4.2 Analyze were fixed.
-* Added a simple wrapper class ObjectiveZip to zip and unzip folders
+* Added a simple wrapper class ObjectiveZip to zip and unzip folders (based on [EvilPeng...@gmail.com](http://code.google.com/u/113815984069373797967/): [unzip](http://pastie.org/private/shg8wgl8ag2gzwd1hguojq) and [zip](http://pastie.org/private/duz3ssi3hecjmak2rwfg))
+
 To be implemented soon...:
+
 * Passwords
 
 
